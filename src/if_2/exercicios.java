@@ -2,7 +2,7 @@ package if_2;
 
 import java.util.Scanner;
 
-public class exercicio_3 {
+public class exercicios{
 	
 	
 	public static void main(String[] args) {
@@ -24,7 +24,7 @@ public class exercicio_3 {
 		
 		
 		else if(numero2 > numero1){
-		System.out.println("o maioe numero é:" + numero2);
+		System.out.println("o maior numero é:" + numero2);
 
 	
 	
